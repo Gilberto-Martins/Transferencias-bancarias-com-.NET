@@ -11,7 +11,6 @@ namespace Bank
             this.Saldo = saldo;
             this.TipoConta = tipoConta;
             this.Credito = credito;
-               
         }
                 private string Nome { get; set; }
         private double Saldo { get; set; }
